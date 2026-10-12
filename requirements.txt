@@ -1,0 +1,7 @@
+customtkinter
+ollama
+pyttsx3
+sounddevice
+vosk
+SpeechRecognition
+PyAudio
